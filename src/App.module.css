@@ -21,4 +21,9 @@ body {
   .image {
     width: 100%;
   }
+  
+}
+.footer{
+   margin-bottom: 50px;
+    margin-top: 22px;
 }

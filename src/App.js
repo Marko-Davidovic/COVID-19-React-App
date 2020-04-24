@@ -33,6 +33,7 @@ class App extends React.Component {
         <Cards data={data} />
         <Country handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} /> 
+        <div className="footer">React App Created by <b>Marko Davidovic</b></div>
       </div>
     );
   }
